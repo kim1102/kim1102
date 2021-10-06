@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Programming Language:
+C++/ Python/ HTML5/ CSS/ JAVA
+
+### Framework:
+pytorch/ Django
+
 <!--
 **kim1102/kim1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
