@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Programming Language:
-C++/ Python/ HTML5/ CSS/ JAVA
+C++/ Python/ HTML5/ CSS/
 
 ### Framework:
 pytorch/ Django
